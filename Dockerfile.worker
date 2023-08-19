@@ -1,0 +1,1 @@
+FROM ghcr.io/novuhq/novu/worker:2181e9469f53470da7c6904739e4380343eafc8e

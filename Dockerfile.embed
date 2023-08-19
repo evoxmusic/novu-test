@@ -1,0 +1,1 @@
+FROM ghcr.io/novuhq/novu/embed:57e75fdfd5777598907f1c675a461adda51fe049

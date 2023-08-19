@@ -1,0 +1,1 @@
+FROM ghcr.io/novuhq/novu/ws:8c3bf4a91e190a91f9537a82d8a612bac4acb0be
